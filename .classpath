@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/hadoop-client-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/hadoop-core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/hadoop-tools-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/hadoop-capacity-scheduler-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/hadoop-fairscheduler-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/hadoop-thriftfs-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/RIMS_PROJECT/SharedLibraries/EJBJars/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/guava-r07.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hadoop-1.0.4/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hbase-0.94.5/hbase-0.94.5.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hbase-0.94.5/lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hbase-0.94.5/lib/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hbase-0.94.5/lib/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/DEVELOPMENT/HADOOP/hbase-0.94.5/lib/protobuf-java-2.4.0a.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
