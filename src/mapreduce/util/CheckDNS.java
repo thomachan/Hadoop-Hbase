@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * check dns and reverse dns of hosts in a given file
  * 
- * @author sujee@sujee.net
+ * @author tom
  * 
  */
 public class CheckDNS {
